@@ -1,0 +1,53 @@
+{
+   "scenes": [
+      {
+         "name": "Scene 3",
+         "videos": [
+            {
+               "video": "Scene 3/Scene-3-01.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-02.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-03.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-04.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-05.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-06.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-07.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-08.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-09.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-10.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-11.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-12.mp4"
+            },
+            {
+               "video": "Scene 3/Scene-3-13.mp4"
+            }
+         ],
+         "displayDuration": 5,
+         "numberOfVideos": 6, 
+         "nextScene": 0,
+         "soundtrack": "Soundtrack/scene3.mp3",
+         "SceneLength": 50
+      }
+   ]
+}

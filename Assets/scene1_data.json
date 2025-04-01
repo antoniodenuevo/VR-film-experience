@@ -1,0 +1,20 @@
+{
+   "scenes": [
+      {
+         "name": "Scene 1",
+         "videos": [
+            { "video": "Scene 1/Scene-1-01.mp4" },
+            { "video": "Scene 1/Scene-1-02.mp4" },
+            { "video": "Scene 1/Scene-1-03.mp4" },
+            { "video": "Scene 1/Scene-1-04.mp4" },
+            { "video": "Scene 1/Scene-1-05.mp4" },
+            { "video": "Scene 1/Scene-1-06.mp4" }
+         ],
+         "displayDuration": 5,
+         "numberOfVideos": 6,
+         "nextScene": 1,
+         "soundtrack": "Soundtrack/scene1.mp3",
+         "SceneLength": 30
+      }
+   ]
+}
